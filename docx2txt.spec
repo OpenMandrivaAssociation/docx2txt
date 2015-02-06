@@ -1,7 +1,7 @@
 Summary: cli tool to convert docx to ascii txt files
 Name: docx2txt
 Version: 1.2
-Release: 1
+Release: 2
 Group: Office
 License: GPLv3
 Url: http://sourceforge.net/projects/docx2txt
