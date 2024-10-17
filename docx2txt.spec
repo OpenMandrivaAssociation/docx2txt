@@ -4,7 +4,7 @@ Version: 1.4
 Release: 1
 Group: Office
 License: GPLv3
-Url: http://sourceforge.net/projects/docx2txt
+Url: https://sourceforge.net/projects/docx2txt
 Source0: http://downloads.sourceforge.net/project/docx2txt/docx2txt/v1.2/%{name}-%{version}.tgz
 BuildArch: noarch
 Requires: unzip
