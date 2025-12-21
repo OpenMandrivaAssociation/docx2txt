@@ -9,6 +9,7 @@ Source0: http://downloads.sourceforge.net/project/docx2txt/docx2txt/v1.2/%{name}
 BuildArch: noarch
 Requires: unzip
 
+BuildRequires:	make
 %description
 Docx2txt is a Perl based command-line tool
 to convert Microsoft docx documents to
